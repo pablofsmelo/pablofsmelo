@@ -44,14 +44,3 @@ I thrive working close to the hardware—whether it's **bare-metal firmware**, *
   A compact, **industrial-grade solution** enabling smart and secure communication in constrained **IoT and edge devices**.
 
 ---
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pablofsmelo/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:pablofsmelo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
